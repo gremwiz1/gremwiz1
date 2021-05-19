@@ -5,6 +5,12 @@
 
 :pencil2: Хочу писать чистый читабельный код
 
+:school_satchel: Хочу развиваться дальше и получать опыт
+
+:hourglass: Быстро обучаюсь, имею огромное желание развиваться и расти в данной области
+
+:mag_right: Ищу удаленную работу с частичной занятостью
+
 
 <!--
 **gremwiz1/gremwiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
