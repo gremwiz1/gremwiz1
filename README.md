@@ -11,7 +11,8 @@
 
 :mag_right: Ищу удаленную работу с частичной занятостью
 
-Skills: REACT / JS / HTML / CSS
+:hammer: Мой стэк: 
+:react: :js: :css: :html:
 <!--
 **gremwiz1/gremwiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
