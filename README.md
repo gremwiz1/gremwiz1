@@ -12,7 +12,7 @@
 :mag_right: Ищу удаленную работу с частичной занятостью
 
 ## :hammer: Мой стэк: 
-React, Js
+ ![alt tag](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
 <!--
 **gremwiz1/gremwiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
