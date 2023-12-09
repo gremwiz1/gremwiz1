@@ -44,10 +44,3 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gremwiz1&show_icons=true&theme=dark)
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact&theme=dark)
-
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&langs_count=10&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gremwiz1&theme=dark)
-
-![Commit Graph](https://activity-graph.herokuapp.com/graph?username=gremwiz1&theme=github)
