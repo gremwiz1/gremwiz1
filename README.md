@@ -11,7 +11,7 @@
 
 :mag_right: Ищу удаленную работу с частичной или полной занятостью
 
-### :hammer: Мой стэк:
+### Мой стэк:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50">
@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
 </p>
 
-### :trophy: Моя статистика:
+### Моя статистика:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gremwiz1)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -40,7 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&theme=dark&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gremwiz1&show_icons=true&theme=dark)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact)
 
