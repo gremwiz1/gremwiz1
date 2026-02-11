@@ -39,6 +39,23 @@
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gremwiz1&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gremwiz1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+
 ## 🔥 Contribution Streak
 
 <p align="center">
