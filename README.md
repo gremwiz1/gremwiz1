@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gremwiz1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gremwiz1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-
----
-
 
 ## 📈 Activity Graph
 
