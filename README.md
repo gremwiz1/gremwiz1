@@ -39,13 +39,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gremwiz1&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 📈 Activity Graph
 
@@ -92,5 +85,33 @@ DevOps   → Nginx • Docker • Linux • PM2
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gremwiz1/gremwiz1/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gremwiz1/gremwiz1/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+  <a href="https://github.com/gremwiz1">
+    <img src="https://img.shields.io/badge/GitHub-gremwiz1-111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://t.me/Gremwiz1">
+    <img src="https://img.shields.io/badge/Telegram-@Gremwiz1-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+
+  <a href="mailto:gremwiz@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-gremwiz@yandex.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://vk.com/id231825961">
+    <img src="https://img.shields.io/badge/VK-Profile-0077FF?style=for-the-badge&logo=vk&logoColor=white">
+  </a>
+
+  <a href="https://ok.ru/profile/265019975944">
+    <img src="https://img.shields.io/badge/OK.ru-Profile-EE8208?style=for-the-badge&logo=odnoklassniki&logoColor=white">
+  </a>
+
 </p>
 
