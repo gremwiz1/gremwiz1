@@ -32,8 +32,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gremwiz1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gremwiz1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -58,9 +58,10 @@
 
 ## 💼 Architecture
 
-Frontend → React • Next.js • Vue • JQuery • Tailwind • Zustand • Redux
-Backend → Node.js • Express • MongoDB
-DevOps → Nginx • Docker • Linux • PM2
+```text
+Frontend → React • Next.js • Vue • Tailwind • Zustand • Redux
+Backend  → Node.js • Express • MongoDB
+DevOps   → Nginx • Docker • Linux • PM2
 
 ---
 
