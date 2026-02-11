@@ -62,6 +62,7 @@
 Frontend → React • Next.js • Vue • Tailwind • Zustand • Redux
 Backend  → Node.js • Express • MongoDB
 DevOps   → Nginx • Docker • Linux • PM2
+```
 
 ---
 
