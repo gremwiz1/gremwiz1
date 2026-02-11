@@ -1,44 +1,76 @@
-### Привет всем, меня зовут Михаил 👋
-:rocket: Стремлюсь к работе с настоящими проектами
+<h1 align="center">👋 Михаил Зотов | gremwiz1</h1>
 
-:sailboat: Хочу работать в опытной команде
-
-:pencil2: Хочу писать чистый читабельный код
-
-:school_satchel: Хочу развиваться дальше и получать опыт
-
-:hourglass: Быстро обучаюсь, имею огромное желание развиваться и расти в данной области
-
-:mag_right: Ищу удаленную работу с частичной занятостью
-
-### Мой стэк:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+Node.js+Engineer;Clean+Architecture+Lover;Building+Real+Projects+🚀" />
 </p>
 
-### Моя статистика:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Developer-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-22c55e?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-Strong-2563eb?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gremwiz1)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 👨‍💻 About Me
 
-<!--
-**gremwiz1/gremwiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack разработчик с **4+ годами коммерческого опыта**  
+⚡ Создаю SaaS, Marketplace, Booking и E-commerce платформы  
+🧩 Основной стек — React / Node.js / MongoDB / TypeScript  
+🔥 Люблю чистую архитектуру, читаемый код и реальные production-задачи  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact)
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,docker,nginx,git,html,css,vscode&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=gremwiz1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gremwiz1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=gremwiz1&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 What I Build
+
+- 🌸 Multi-tenant SaaS platforms  
+- 🏨 Booking & Rental systems  
+- 🛒 E-commerce solutions  
+- 📱 React / React Native interfaces  
+- ⚙️ Admin panels & internal tools  
+
+---
+
+## 💼 Architecture
+
+Frontend → React • Next.js • Vue • JQuery • Tailwind • Zustand • Redux
+Backend → Node.js • Express • MongoDB
+DevOps → Nginx • Docker • Linux • PM2
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gremwiz1/gremwiz1/output/github-contribution-grid-snake-dark.svg"/>
+</p>
