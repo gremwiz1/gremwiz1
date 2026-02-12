@@ -19,13 +19,6 @@
 🧩 Основной стек — React / Node.js / MongoDB / TypeScript  
 🔥 Люблю чистую архитектуру, читаемый код и реальные production-задачи  
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,docker,nginx,git,html,css,vscode&perline=6" />
-</p>
 
 ---
 
