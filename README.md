@@ -29,6 +29,14 @@
 
 ---
 
+## 🚀 Main Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,express,mongodb,docker,nginx&perline=8" />
+</p>
+
+---
+
 
 ## 📈 Activity Graph
 
