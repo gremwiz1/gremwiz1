@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 Fullstack разработчик с **4+ годами коммерческого опыта**  
+🚀 Fullstack разработчик с **5+ годами коммерческого опыта**  
 ⚡ Создаю SaaS, Marketplace, Booking и E-commerce платформы  
 🧩 Основной стек — React / Node.js / MongoDB / TypeScript  
 🔥 Люблю чистую архитектуру, читаемый код и реальные production-задачи  
